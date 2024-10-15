@@ -6,7 +6,8 @@ int add();
 int sub();
 
 int main() {
-    int user_input, result;
+    int user_input, result; /edited
+
     
     do {
         cls();
